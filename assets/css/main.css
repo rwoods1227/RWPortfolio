@@ -8601,3 +8601,11 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+			#spotifly{
+				object-fit: fill;
+			}
+
+			#fantasyPayandPlay{
+				object-fit: fill;
+			}
