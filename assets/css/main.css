@@ -8609,3 +8609,7 @@ input, select, textarea {
 			#fantasyPayandPlay{
 				object-fit: fill;
 			}
+
+			.technolgy-svg{
+				width:100px;
+			}
