@@ -8610,6 +8610,12 @@ input, select, textarea {
 				object-fit: fill;
 			}
 
+			#ProfilePic{
+				object-fit: fill;
+			}
+
+			
+
 			.technolgy-svg{
 				width:100px;
 			}
