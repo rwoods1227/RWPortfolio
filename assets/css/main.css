@@ -8603,18 +8603,44 @@ input, select, textarea {
 			}
 
 			#spotifly{
-				object-fit: fill;
+				background-image: url('../../images/Spotifly.png');
+				background-size: cover;
+				background-repeat: no-repeat;
+				width: 50%;
 			}
 
 			#fantasyPayandPlay{
-				object-fit: fill;
+				background-image: url('../../images/FantasyPay&playGif.gif');
+				background-size: cover;
+				background-repeat: no-repeat;
+				width: 50%;
 			}
 
 			#ProfilePic{
-				object-fit: fill;
+				background-image: url('../../images/RWPortfolio.JPG');
+				background-size: cover;
+    		background-repeat: no-repeat;
+    		background-position: 50% 50%;
 			}
 
+			#PushyPenguins{
+				background-image: url('../../images/Pushy\ Penguins.gif');
+				background-size: contain;
+				background-repeat: no-repeat;
+				width: 50%;
+				background-position: 50% 50%;
+			}
 			
+			#koala{
+				background-image: url('../../images/Koala.gif');
+				background-size: cover;
+				background-repeat: no-repeat;
+				width: 50%;
+			}
+
+			#phoneNumber{
+				font-family: sans-serif; 
+			}
 
 			.technolgy-svg{
 				width:100px;
